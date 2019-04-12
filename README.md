@@ -20,7 +20,7 @@
 ## Quick start
 ### Installing
 First make sure arduino enviorment is installed on your pc and ATtiny84 board is available.  
-In order to compile and use this code you must include nRF24L01 lib. more info here: [maniacbug/RF24](https://github.com/maniacbug/RF24/blob/master/README.md)
+In order to compile and use this code you must include nRF24L01 lib. more info here: [maniacbug/RF24](https://github.com/maniacbug/RF24/blob/master/README.md)  
 Next upload this code to your ATtiny84 using arduino as ISP.
 
 ### Using
